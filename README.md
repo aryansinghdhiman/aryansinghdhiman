@@ -1,12 +1,12 @@
-<br clear="both">
+![logo](https://github.com/Ashutosh-PMishra/Ashutosh-PMishra/blob/main/Github%20Banner.png)
 
 <h1 align="center">Hi 👋! <br>I'm Aryan Singh Dhiman</h1>
 
-###
+<h3 align="center">Code. Learn. Create. Repeat.</h3>
 
-<img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnN4ODgzcWh2Y251b3R1ZDU2dm03ZjA3M203bGJidDlmb2twZGZ5OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif"  />
+<h4 align="center"> **My best ideas usually arrive at 2 AM, right when I should be sleeping.** </h4>
 
-###
+<br clear="both">
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
@@ -43,35 +43,19 @@
 </div>
 
 ###
-
-<div align="left">
-  <a href="https://www.instagram.com/aryansinghdhiman.01/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&to=aryansinghdhiman97210@gmail.com&su=Your%20Subject&body=Your%20Body" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-</div>
-
-###
-
 <br clear="both">
 
-###
+<img align="center" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnN4ODgzcWh2Y251b3R1ZDU2dm03ZjA3M203bGJidDlmb2twZGZ5OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif"  />
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/aryansinghdhiman/count.svg?"  />
-</div>
 
-###
 
-<img src="https://raw.githubusercontent.com/aryansinghdhiman/aryansinghdhiman/output/snake.svg" alt="Snake animation" />
-
+<img align="left" src="https://raw.githubusercontent.com/aryansinghdhiman/aryansinghdhiman/output/snake.svg" alt="Snake animation" />
+<br clear="both">
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/aryansinghdhiman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aryansinghdhiman" height="30" width="40" /></a>
 <a href="https://instagram.com/aryansinghdhiman.01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aryansinghdhiman.01" height="30" width="40" /></a>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aryansinghdhiman&label=Profile%20views&color=0e75b6&style=flat" alt="aryansinghdhiman" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=aryansinghdhiman&label=Profile%20views&color=0e75b6&style=flat" alt="aryansinghdhiman" /> </p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryansinghdhiman&" alt="aryansinghdhiman" /></p>
