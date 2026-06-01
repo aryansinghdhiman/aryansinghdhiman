@@ -4,19 +4,6 @@
 
 ###
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aryansinghdhiman&label=Profile%20views&color=0e75b6&style=flat" alt="aryansinghdhiman" /> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryansinghdhiman&show_icons=true&locale=en&layout=compact" alt="aryansinghdhiman" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aryansinghdhiman&show_icons=true&locale=en" alt="aryansinghdhiman" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryansinghdhiman&" alt="aryansinghdhiman" /></p>
-###
-
 <img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnN4ODgzcWh2Y251b3R1ZDU2dm03ZjA3M203bGJidDlmb2twZGZ5OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif"  />
 
 ###
@@ -80,3 +67,14 @@
 
 <img src="https://raw.githubusercontent.com/aryansinghdhiman/aryansinghdhiman/output/snake.svg" alt="Snake animation" />
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aryansinghdhiman&label=Profile%20views&color=0e75b6&style=flat" alt="aryansinghdhiman" /> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryansinghdhiman&show_icons=true&locale=en&layout=compact" alt="aryansinghdhiman" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aryansinghdhiman&show_icons=true&locale=en" alt="aryansinghdhiman" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryansinghdhiman&" alt="aryansinghdhiman" /></p>
